@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Generated FASTQ files
+filtered/
+
+# Windows metadata
+*:Zone.Identifier
